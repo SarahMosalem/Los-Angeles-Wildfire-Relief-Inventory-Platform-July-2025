@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**LA Wildfire Disaster Relief Inventory Platform
+****Project Overview
+**During a natural disaster, victims often face the overwhelming task of documenting property loss for insurance while in a state of crisis. This platform was developed to bridge the gap between high-stress recovery and the rigorous data requirements of insurance adjusters.
 
-# Run and deploy your AI Studio app
+**The Problem
+**Manual Friction: Existing insurance forms are long, complex, and difficult to complete on mobile devices.
 
-This contains everything you need to run your app locally.
+Data Loss: Families often lose physical receipts or forget items when evacuated, leading to undervalued claims.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1SMGEORyX5pyqrfMzGxP8Hv37dxYKvNjk
+Process Opacity: Users lack real-time visibility into the status of their submitted claims.
 
-## Run Locally
+**The Solution (MVP Features)
+**Frictionless Logging: A simplified "add item" flow designed for mobile use in the field.
 
-**Prerequisites:**  Node.js
+Visual Documentation: Integrated photo and receipt upload to satisfy insurer proof-of-loss requirements.
 
+Claim Roadmap: A visual progress tracker to reduce user anxiety by showing exactly where they are in the settlement process.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Accessible UI: High-contrast, clean interface optimized for users experiencing high cognitive load.
