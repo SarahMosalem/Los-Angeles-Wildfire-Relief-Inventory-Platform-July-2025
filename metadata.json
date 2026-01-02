@@ -1,0 +1,7 @@
+{
+  "name": "LA Wildfire Recovery: Inventory & Claims",
+  "description": "A high-fidelity disaster relief platform for wildfire victims to document lost property and manage insurance claims with ease and clarity.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
